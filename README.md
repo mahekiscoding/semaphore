@@ -1,4 +1,4 @@
 # semaphore
 This is my first Git Repository
 <br>
-Author - Mahek Shrivastava 
+Author - Mahek (Data Science)
